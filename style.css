@@ -21,6 +21,7 @@ html{
 
 		.motivation .title{
 			font-family:athelas,arial,helvetica;
+			line-height: auto;
 			text-align:center; font-size: 42px;font-weight:800; margin: 110px 0 50px 0;
 		}
 		ul{
